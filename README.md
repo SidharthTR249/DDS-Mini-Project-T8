@@ -54,7 +54,8 @@ waste.
 
 
 LOGISIM
-![Screenshot (39)](https://github.com/Sidharthtr/DDS-Mini-Project/assets/129524598/cf60788a-210a-459d-83f0-1ecbce4920f2)
+![Screenshot (39)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/6ed3744c-5a78-43d7-9469-34e8b5bdffe1)
+
 ![Screenshot (43)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/8e8879c8-e725-45fe-b8b8-c32f7cc73877)
 ![WhatsApp Image 2023-10-25 at 8 31 56 PM (1)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/57c35849-f4ba-45ee-8edc-70c68aa086d5)
 ![WhatsApp Image 2023-10-25 at 8 31 56 PM (2)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/c6efa3c7-2f19-47f3-8075-e3b728812fd4)
@@ -182,5 +183,6 @@ end
 endmodule
 
 SNAPSHOT OF VERILOG
-![Screenshot (41)](https://github.com/Sidharthtr/DDS-Mini-Project/assets/129524598/646d72f7-1bb6-499d-87e0-36f67a9e8822)
+![Screenshot (41)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/25b50ff8-079c-46a7-bf3c-e34b4a975c55)
+
 
