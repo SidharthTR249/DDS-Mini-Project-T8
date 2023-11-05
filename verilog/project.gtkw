@@ -1,0 +1,53 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Nov 05 07:26:19 2023
+[*]
+[dumpfile] "C:\Users\LOGON\OneDrive\Desktop\proj\verilog\project.vcd"
+[savefile] "C:\Users\LOGON\OneDrive\Desktop\proj\verilog\project.gtkw"
+[timestart] 5
+[size] 1536 801
+[pos] -191 -191
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TemperatureLightPowerController_tb.
+[sst_width] 197
+[signals_width] 214
+[sst_expanded] 1
+[sst_vpaned_height] 224
+@28
+TemperatureLightPowerController_tb.alarm
+TemperatureLightPowerController_tb.clk
+TemperatureLightPowerController_tb.cooler
+TemperatureLightPowerController_tb.heater
+TemperatureLightPowerController_tb.light
+@22
+TemperatureLightPowerController_tb.light_sensor[7:0]
+TemperatureLightPowerController_tb.power_monitor[8:0]
+@28
+TemperatureLightPowerController_tb.rst
+@22
+TemperatureLightPowerController_tb.temperature_sensor[7:0]
+@420
+TemperatureLightPowerController_tb.uut.LIGHT_THRESHOLD
+TemperatureLightPowerController_tb.uut.POWER_THRESHOLD
+TemperatureLightPowerController_tb.uut.TEMPERATURE_THRESHOLD
+@28
+TemperatureLightPowerController_tb.uut.alarm
+TemperatureLightPowerController_tb.uut.alarm_reg
+TemperatureLightPowerController_tb.uut.clk
+@23
+TemperatureLightPowerController_tb.uut.temperature_sensor[7:0]
+@28
+TemperatureLightPowerController_tb.uut.cooler
+TemperatureLightPowerController_tb.uut.heater
+TemperatureLightPowerController_tb.uut.heater_reg
+TemperatureLightPowerController_tb.uut.light
+TemperatureLightPowerController_tb.uut.light_reg
+@22
+TemperatureLightPowerController_tb.uut.light_sensor[7:0]
+TemperatureLightPowerController_tb.uut.power_monitor[8:0]
+@28
+TemperatureLightPowerController_tb.uut.rst
+@22
+TemperatureLightPowerController_tb.uut.temperature_sensor[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
