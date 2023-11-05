@@ -1,8 +1,8 @@
 # DDS-Mini-Project-T8
 
-<h4> SMART HOME ENERGY MONITORING & MANAGEMENT SYSTEM </h4>
+<h2> SMART HOME ENERGY MONITORING & MANAGEMENT SYSTEM </h2>
 
-# Team members:
+<h4> Team members:</h4>
 <Details>
 
 1. 221CS208 , Ankur Jat , ankurjat.221cs208@nitk.edu.in , 8000950925.
@@ -10,7 +10,7 @@
 3. 221CS249 , Sidharth T R , sidharthtr.221cs249@nitk.edu.in , 8590383683.
 </Details>
    
-# ABSTRACT
+<h4> ABSTRACT</h4>
 <Details>
 The Smart Home Energy Monitoring and Management System is a solution designed to tackle the increasing demand, for energy efficiency and sustainability in areas. With the rising number of devices and a growing
 awareness of impact it has become crucial to have an integrated system that empowers homeowners to effectively monitor, control and optimize their energy usage. Moreover, We can make many houses power usage
@@ -18,7 +18,7 @@ under 200 unit. So, that the can avail the Gruha Jyothi Scheme introduced by The
 
 </Details>
 
-# FUNCTIONS
+<h4> FUNCTIONS </h4>
 <Details>
 Introduction:
 The Smart Home Energy Monitoring and Control System is an innovative project that demonstrates the capabilities of Verilog-based hardware design to create an energy-efficient and comfortable home
@@ -59,7 +59,7 @@ when light intensity surpasses another threshold, the system decreases the curre
 waste.
 
 </Details>
-# LOGISIM
+<h4> LOGISIM</h4>
 <Details>
 ![Screenshot (39)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/6ed3744c-5a78-43d7-9469-34e8b5bdffe1)
 
@@ -70,7 +70,7 @@ waste.
 
 </Details>
 
-# VERILOG CODE
+<h4> VERILOG CODE </h4>
 <Details>
 module TemperatureLightPowerController (
     input wire clk,
@@ -191,7 +191,7 @@ endmodule
 
 </Details>
 
-# SNAPSHOT OF VERILOG
+<h4> SNAPSHOT OF VERILOG </h4>
 <Details>
 ![Screenshot (41)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/25b50ff8-079c-46a7-bf3c-e34b4a975c55)
 
