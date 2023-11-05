@@ -1,19 +1,23 @@
 # DDS-Mini-Project-T8
 
 SMART HOME ENERGY MONITORING & MANAGEMENT SYSTEM
+<Details>
 Team members:
 1. 221CS208 , Ankur Jat , ankurjat.221cs208@nitk.edu.in , 8000950925.
 2. 221CS244 , Sandeep R , sandeepr.221cs244@nitk.edu.in , 8105090281.
 3. 221CS249 , Sidharth T R , sidharthtr.221cs249@nitk.edu.in , 8590383683.
+</Details>
    
  ABSTRACT
- 
+<Details>
 The Smart Home Energy Monitoring and Management System is a solution designed to tackle the increasing demand, for energy efficiency and sustainability in areas. With the rising number of devices and a growing
 awareness of impact it has become crucial to have an integrated system that empowers homeowners to effectively monitor, control and optimize their energy usage. Moreover, We can make many houses power usage
 under 200 unit. So, that the can avail the Gruha Jyothi Scheme introduced by The Karnataka Government.
 
-FUNCTIONS
+</Details>
 
+FUNCTIONS
+<Details>
 Introduction:
 The Smart Home Energy Monitoring and Control System is an innovative project that demonstrates the capabilities of Verilog-based hardware design to create an energy-efficient and comfortable home
 environment. This comprehensive system combines several Verilog modules, each serving a specific function, to monitor energy consumption, manage power usage, control lighting, and maintain
@@ -52,7 +56,7 @@ whether to increase or decrease the current through the light source. When light
 when light intensity surpasses another threshold, the system decreases the current to conserve energy. This intelligent lighting control system ensures a well-lit environment while minimizing energy
 waste.
 
-
+</Details>
 LOGISIM
 ![Screenshot (39)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/6ed3744c-5a78-43d7-9469-34e8b5bdffe1)
 
