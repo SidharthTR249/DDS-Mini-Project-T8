@@ -1,14 +1,16 @@
 # DDS-Mini-Project-T8
 
-SMART HOME ENERGY MONITORING & MANAGEMENT SYSTEM
+# SMART HOME ENERGY MONITORING & MANAGEMENT SYSTEM
+
+# Team members:
 <Details>
-Team members:
+
 1. 221CS208 , Ankur Jat , ankurjat.221cs208@nitk.edu.in , 8000950925.
 2. 221CS244 , Sandeep R , sandeepr.221cs244@nitk.edu.in , 8105090281.
 3. 221CS249 , Sidharth T R , sidharthtr.221cs249@nitk.edu.in , 8590383683.
 </Details>
    
- ABSTRACT
+# ABSTRACT
 <Details>
 The Smart Home Energy Monitoring and Management System is a solution designed to tackle the increasing demand, for energy efficiency and sustainability in areas. With the rising number of devices and a growing
 awareness of impact it has become crucial to have an integrated system that empowers homeowners to effectively monitor, control and optimize their energy usage. Moreover, We can make many houses power usage
@@ -16,7 +18,7 @@ under 200 unit. So, that the can avail the Gruha Jyothi Scheme introduced by The
 
 </Details>
 
-FUNCTIONS
+# FUNCTIONS
 <Details>
 Introduction:
 The Smart Home Energy Monitoring and Control System is an innovative project that demonstrates the capabilities of Verilog-based hardware design to create an energy-efficient and comfortable home
@@ -57,7 +59,8 @@ when light intensity surpasses another threshold, the system decreases the curre
 waste.
 
 </Details>
-LOGISIM
+# LOGISIM
+<Details>
 ![Screenshot (39)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/6ed3744c-5a78-43d7-9469-34e8b5bdffe1)
 
 ![Screenshot (43)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/8e8879c8-e725-45fe-b8b8-c32f7cc73877)
@@ -65,10 +68,10 @@ LOGISIM
 ![WhatsApp Image 2023-10-25 at 8 31 56 PM (2)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/c6efa3c7-2f19-47f3-8075-e3b728812fd4)
 ![WhatsApp Image 2023-10-25 at 8 31 57 PM](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/3b9997f1-6bd1-4f8a-96f4-b540e7a7d0ee)
 
+</Details>
 
-
-VERILOG CODE
-
+# VERILOG CODE
+<Details>
 module TemperatureLightPowerController (
     input wire clk,
     input wire rst,
@@ -186,7 +189,10 @@ end
 
 endmodule
 
-SNAPSHOT OF VERILOG
+</Details>
+
+# SNAPSHOT OF VERILOG
+<Details>
 ![Screenshot (41)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/25b50ff8-079c-46a7-bf3c-e34b4a975c55)
 
-
+</Details>
