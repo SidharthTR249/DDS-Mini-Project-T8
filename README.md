@@ -74,7 +74,7 @@ waste.
    
 ![alarm](Snapshots/alarm.png)
 
-![inside circuit 1](Snapshots/inside circuit 1.png)
+![[inside circuit 1](Snapshots/inside circuit 1.png)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/blob/bf627cff815f3dda438259e758306dca6611b23f/Snapshots/inside%20circuit%201.jpeg)
 ![inside circuit 2](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/dcf2df13-1fd5-43fd-a5d4-5c15a2028246)
 ![inside circuit 3](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/427fc218-5cd9-48fe-969c-28688717e91f)
 ![main circuit](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/cbf84c19-2c70-43f4-a7de-4bd0b2b9d561)
