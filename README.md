@@ -61,12 +61,13 @@ waste.
 </Details>
 <h4> LOGISIM</h4>
 <Details>
-![Screenshot (39)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/6ed3744c-5a78-43d7-9469-34e8b5bdffe1)
+![alarm](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/e40865ed-43f6-483a-a87e-793e27905327)
+![inside circuit 1](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/64b5444a-3858-43ce-81bd-065a1ef87590)
+![inside circuit 2](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/dcf2df13-1fd5-43fd-a5d4-5c15a2028246)
+![inside circuit 3](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/427fc218-5cd9-48fe-969c-28688717e91f)
+![main circuit](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/cbf84c19-2c70-43f4-a7de-4bd0b2b9d561)
 
-![Screenshot (43)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/8e8879c8-e725-45fe-b8b8-c32f7cc73877)
-![WhatsApp Image 2023-10-25 at 8 31 56 PM (1)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/57c35849-f4ba-45ee-8edc-70c68aa086d5)
-![WhatsApp Image 2023-10-25 at 8 31 56 PM (2)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/c6efa3c7-2f19-47f3-8075-e3b728812fd4)
-![WhatsApp Image 2023-10-25 at 8 31 57 PM](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/3b9997f1-6bd1-4f8a-96f4-b540e7a7d0ee)
+
 
 </Details>
 
@@ -193,6 +194,7 @@ endmodule
 
 <h4> SNAPSHOT OF VERILOG </h4>
 <Details>
-![Screenshot (41)](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/25b50ff8-079c-46a7-bf3c-e34b4a975c55)
+![verilog-output](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/3763d95b-0189-4ac4-a7f0-7e45302a7c6e)
+
 
 </Details>
