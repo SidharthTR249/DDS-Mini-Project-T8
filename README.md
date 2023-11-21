@@ -70,8 +70,10 @@ waste.
    
 <h4> LOGISIM</h4>
 <Details>
-![alarm](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/e40865ed-43f6-483a-a87e-793e27905327)
-![inside circuit 1](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/64b5444a-3858-43ce-81bd-065a1ef87590)
+   
+![alarm](Snapshots/alarm.png)
+
+![inside circuit 1](Snapshots/inside circuit 1.png)
 ![inside circuit 2](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/dcf2df13-1fd5-43fd-a5d4-5c15a2028246)
 ![inside circuit 3](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/427fc218-5cd9-48fe-969c-28688717e91f)
 ![main circuit](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/cbf84c19-2c70-43f4-a7de-4bd0b2b9d561)
