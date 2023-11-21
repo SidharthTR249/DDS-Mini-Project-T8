@@ -59,6 +59,15 @@ when light intensity surpasses another threshold, the system decreases the curre
 waste.
 
 </Details>
+
+<h4>FLOW CHART</h4>
+
+<Details>
+![flowchart](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/d0716f24-c918-4b6c-b3e8-fbe45ca5c619)
+
+</Details>
+
+   
 <h4> LOGISIM</h4>
 <Details>
 ![alarm](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/e40865ed-43f6-483a-a87e-793e27905327)
