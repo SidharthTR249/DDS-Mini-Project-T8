@@ -63,7 +63,8 @@ waste.
 <h4>FLOW CHART</h4>
 
 <Details>
-![flowchart](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/d0716f24-c918-4b6c-b3e8-fbe45ca5c619)
+   
+![flowchart](Snapshots/flowchart.jpeg)
 
 </Details>
 
