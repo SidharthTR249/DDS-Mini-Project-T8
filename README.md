@@ -207,7 +207,9 @@ waste.
 
 <h4> SNAPSHOT OF VERILOG </h4>
 <Details>
-![verilog-output](https://github.com/SidharthTR249/DDS-Mini-Project-T8/assets/148998611/3763d95b-0189-4ac4-a7f0-7e45302a7c6e)
+
+   
+![verilog-output](Snapshots/verilog-output.png)
 
 
 </Details>
